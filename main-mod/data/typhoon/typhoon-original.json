@@ -1,0 +1,51 @@
+{
+	"song": {
+		"sectionLengths": [],
+		"player1": "boyfriend_new",
+		"events": [],
+		"gfVersion": "frendos",
+		"player2": "whirlwind_2",
+		"notes": [
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"bpm": blank,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"bpm": blank,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"bpm": blank,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"bpm": blank,
+				"changeBPM": false,
+				"mustHitSection": false
+			}
+		],
+		"player3": null,
+		"song": "typhoon",
+		"validScore": true,
+		"sections": 0,
+		"needsVoices": true,
+		"stage": "BG_WW",
+		"speed": 3,
+		"bpm": blank
+	}
+}
