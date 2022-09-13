@@ -1,0 +1,51 @@
+{
+	"song": {
+		"sectionLengths": [],
+		"player1": "boyfriend_hc_LXgod",
+		"events": [],
+		"gfVersion": "frendos_hc",
+		"player2": "lordx_hc_3",
+		"notes": [
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"bpm": blank,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"bpm": blank,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"bpm": blank,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"bpm": blank,
+				"changeBPM": false,
+				"mustHitSection": false
+			}
+		],
+		"player3": null,
+		"song": "gods-embrace-hardcore",
+		"validScore": true,
+		"sections": 0,
+		"needsVoices": true,
+		"stage": "BG_LX_3_HC",
+		"speed": 3.2,
+		"bpm": blank
+	}
+}
