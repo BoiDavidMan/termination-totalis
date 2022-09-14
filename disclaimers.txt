@@ -1,21 +1,14 @@
 disclaimer:
 
 this mod contains flashing lights
-
 if you're sensitive to flashing lights, turn off flashing lights in the main game's options menu
-
 this disclaimer will show up before each song that has flashing lights no matter what, I don't want people to die because of me
 
 this mod contains;
-
 low-tier violence - there's a gore add-on if you want it ;]
-
 some swearing - only during dialogue, some mid-song animations and occasionally Lord X's rap songs
-
 loud sounds - it's a creepypasta mod, what did you expect
-
 some absolute fuckin' bangers - obviously
 
 if there's anything you guys are sensitive towards, feel free to tell me, I wanna make this mod as accessible as possible
-
 unless you're sensitive to crucial stuff like fast movements, I'm not gonna remove basic stuff like that (idek why you would even play a sonic exe fan mod of all things if you were sensitive to fast movements, but whatever)
