@@ -1,0 +1,2 @@
+you added the Doom Addon
+yup, that's all this file is, just telling you the Doom Addon is installed
