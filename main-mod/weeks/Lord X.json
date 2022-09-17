@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Adams Apology",
+			"lordx-1",
+			[
+				34,
+				69,
+				106
+			]
+		],
+		[
+			"Unforgivable",
+			"lordx-1",
+			[
+				34,
+				69,
+				106
+			]
+		],
+		[
+			"Sinful Ways",
+			"lordx-2",
+			[
+				34,
+				69,
+				106
+			]
+		],
+		[
+			"Gods Embrace",
+			"lordx-3",
+			[
+				34,
+				69,
+				106
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "void",
+	"difficulties": "original, hardcore",
+	"weekCharacters": [
+		"bf-lx",
+		"lordx-gaym",
+		"david-lx"
+	],
+	"storyName": "The first, but not the original",
+	"weekName": "Lord X",
+	"freeplayColor": [
+		34,
+		69,
+		106
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hiddenUntilUnlocked": false
+}

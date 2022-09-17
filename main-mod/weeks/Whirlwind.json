@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Extravagant",
+			"whirlwind-1",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Unhinged",
+			"whirlwind-1",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Typhoon",
+			"whirlwind-2",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Trifecta",
+			"whirlwind-3",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "throne",
+	"difficulties": "original, hardcore",
+	"weekCharacters": [
+		"empty",
+		"juggler",
+		"empty"
+	],
+	"storyName": "I can feel a storm brewing",
+	"weekName": "Whirlwind",
+	"freeplayColor": [
+		0,
+		0,
+		0
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hiddenUntilUnlocked": false
+}

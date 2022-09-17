@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Incomprehensible",
+			"dysmorphia-1",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Undefeated",
+			"dysmorphia-2",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Your Doom",
+			"dysmorphia-3",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Dystopia",
+			"dysmorphia-2",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "cave",
+	"difficulties": "original, hardcore",
+	"weekCharacters": [
+		"bf_dysmo",
+		"cavedude",
+		"david_dysmo"
+	],
+	"storyName": "Never meet your heroes... they might leave you mutilated",
+	"weekName": "Dysmorphia",
+	"freeplayColor": [
+		0,
+		0,
+		0
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hiddenUntilUnlocked": false
+}

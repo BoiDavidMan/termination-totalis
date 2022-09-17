@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Gods Embrace",
+			"lordx-3",
+			[
+				0,
+				0,
+				0
+			],
+		],
+		[
+			"Dystopia",
+			"dysmorphia-2",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Trifecta",
+			"whirlwind-3",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "whitevoid",
+	"difficulties": "original, hardcore",
+	"weekCharacters": [
+		"dysmorphia-bonus",
+		"lordx-bonus",
+		"whirlwind-bonus"
+	],
+	"storyName": "Killing Spree of the Thrilling Three",
+	"weekName": "bonusSongs",
+	"freeplayColor": [
+		0,
+		0,
+		0
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": false,
+	"hiddenUntilUnlocked": true
+}
